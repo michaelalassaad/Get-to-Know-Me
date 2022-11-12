@@ -34,4 +34,4 @@ Hello, my name is Michael Al Assaad, and I am an senior student and Schoolf of E
 ![Michael's Github Stats](https://github-readme-stats.vercel.app/api?username=michaelalassaad&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelalassaad&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michaelalassaad.michaelalassaad)
