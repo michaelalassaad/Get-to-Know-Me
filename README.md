@@ -24,7 +24,7 @@ Hello, my name is Michael Al Assaad, and I am an senior student and Schoolf of E
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelalassaad" alt="michaelalassaad" /></p>
 
 
-**Languages and Tools:** 
+## Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
