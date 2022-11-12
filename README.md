@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 Hello, my name is Michael Al Assaad, and I am an senior student and Schoolf of Engineering Representative at [Lebanese American University](https://www.lau.edu.lb/) majoring in Computer Engineering. I am a Computer Vision and Deep Learning enthusiast.
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: michael.alassaad@lau.edu
 - 📝 [Resume](https://github.com/michaelalassaad/Get-to-Know-Me/files/9995043/CV.-.Michael.Al.Assaad.pdf)
