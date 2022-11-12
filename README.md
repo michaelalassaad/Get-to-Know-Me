@@ -20,6 +20,9 @@ Hello, my name is Michael Al Assaad, and I am an senior student and Schoolf of E
 - 📫 How to reach me: michael.alassaad@lau.edu
 - 📝 [Resume](https://github.com/michaelalassaad/Get-to-Know-Me/files/9995043/CV.-.Michael.Al.Assaad.pdf)
 
+## My Current Activities
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelalassaad" alt="michaelalassaad" /></p>
+
 
 **Languages and Tools:** 
 
