@@ -18,7 +18,8 @@ Hello, my name is Michael Al Assaad, and I am a fresh graduate from the [Lebanes
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: michaelalassaad@gmail.com
-- 📝 [Resume](https://github.com/michaelalassaad/Get-to-Know-Me/files/9995043/CV.-.Michael.Al.Assaad.pdf)
+- 📝 [Resume][CV - Michael Al Assaad.pdf](https://github.com/user-attachments/files/15972095/CV.-.Michael.Al.Assaad.pdf)
+()
 
 ## My Current Activities
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelalassaad" alt="michaelalassaad" /></p>
