@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Michael Al Assaad, and I am an senior student and Schoolf of Engineering Representative at [Lebanese American University](https://www.lau.edu.lb/) majoring in Computer Engineering. I am a Computer Vision and Deep Learning enthusiast.
+Hello, my name is Michael Al Assaad, and I am a fresh graduate from the [Lebanese American University](https://www.lau.edu.lb/) majoring in Computer Engineering. I am a Computer Vision and Deep Learning enthusiast.
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: michael.alassaad@lau.edu
+- 📫 How to reach me: michaelalassaad@gmail.com
 - 📝 [Resume](https://github.com/michaelalassaad/Get-to-Know-Me/files/9995043/CV.-.Michael.Al.Assaad.pdf)
 
 ## My Current Activities
